@@ -1,0 +1,4 @@
+Student name: John Benedict Silos
+Student age: 21
+Student average: 80.5
+Is the grade in passing score? true
