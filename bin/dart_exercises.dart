@@ -7,7 +7,8 @@ void main() {
   double studentGrade2 = 80.50;
 
   double gradeTotal = studentGrade1 + studentGrade2;
-  double gradeAverage = gradeTotal / 2;
+  int numberOfGrades = 2;
+  double gradeAverage = gradeTotal / numberOfGrades;
   bool isGradeOver75 = gradeAverage > 75;
 
   print("Student name: $studentName");
